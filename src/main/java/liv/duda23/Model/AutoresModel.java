@@ -34,7 +34,6 @@ public class AutoresModel {
         this.id = id;
     }
 
-    // ✅ Corrigido (antes estava getTitulo)
     public String getNacionalidade() {
         return nacionalidade;
     }
